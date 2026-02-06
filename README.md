@@ -23,8 +23,8 @@ A PowerShell script that, at the press of a button, will free up disk space by d
 
 ## Usage
 
-1. Download the script from releases  
-2. Find the script file `FullDiskCleanup.ps1`.  
+1. Download the script from main tree.  
+2. Find the script file `diskcleanuplus.ps1`.  
 3. Double-click the script **or** right-click → **Run with PowerShell**.  
 4. If Windows blocks the script, you only need to allow scripts to run once:
    1. Right-click PowerShell → Run as Administrator  
